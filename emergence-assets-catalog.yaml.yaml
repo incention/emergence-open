@@ -1,0 +1,98 @@
+project_name: "Emergence"
+description: "Assets from the Emergence universe for Epic's Unreal Engine community"
+updated_date: "2025-04-20"
+maintainer: "Emergence Team"
+repository_url: "https://github.com/emergence-universe/assets-catalog"
+
+categories:
+  unreal_engine:
+    description: "UE session with custom project settings"
+    assets:
+      - name: "Emergence Core Project"
+        description: "Main Unreal Engine project with all settings and configurations"
+        url: "https://emergence-assets.s3.amazonaws.com/ue5/emergence_core_project_v1.2.zip"
+        size: "4.2GB"
+        last_modified: "2025-04-15"
+        tags: ["core", "project", "UE5"]
+      
+      - name: "White Fountain Environment"
+        description: "Complete environment assets for the White Fountain"
+        url: "https://emergence-assets.s3.amazonaws.com/ue5/environments/white_fountain_v2.1.zip"
+        size: "8.7GB"
+        last_modified: "2025-04-10"
+        tags: ["environment", "white fountain", "space"]
+
+  animation_data:
+    description: "Character and object animation data"
+    assets:
+      - name: "Skadi Animation Set"
+        description: "Complete animation set for Skadi character"
+        url: "https://emergence-assets.s3.amazonaws.com/animations/skadi_complete_v1.3.fbx"
+        size: "780MB"
+        last_modified: "2025-04-08"
+        tags: ["character", "animation", "protagonist"]
+      
+      - name: "Ghast Species Animation Pack"
+        description: "Standard movement and combat animations for Ghast characters"
+        url: "https://emergence-assets.s3.amazonaws.com/animations/ghast_species_pack_v2.0.fbx"
+        size: "1.2GB"
+        last_modified: "2025-04-12"
+        tags: ["character", "animation", "ghast"]
+
+  assets:
+    description: "3D models, textures, and other game assets"
+    assets:
+      - name: "The Belle Spaceship"
+        description: "Complete 3D model of Skadi's ship with textures and materials"
+        url: "https://emergence-assets.s3.amazonaws.com/models/the_belle_complete_v2.1.zip"
+        size: "3.5GB"
+        last_modified: "2025-04-18"
+        tags: ["spaceship", "vehicle", "hero asset"]
+      
+      - name: "Relics Collection Pack"
+        description: "Set of 12 different relic models with materials and FX"
+        url: "https://emergence-assets.s3.amazonaws.com/models/relics_collection_v1.0.zip"
+        size: "2.8GB"
+        last_modified: "2025-04-05"
+        tags: ["props", "relics", "effects"]
+
+  premiere_pro:
+    description: "Premiere Pro sessions and assets"
+    assets:
+      - name: "Shot Collection - Season 1"
+        description: "All primary shots and sequences for Season 1"
+        url: "https://emergence-assets.s3.amazonaws.com/premiere/shots_season1_v1.2.prproj"
+        size: "5.3GB"
+        last_modified: "2025-04-03"
+        tags: ["shots", "premiere", "sequences"]
+      
+      - name: "Sound FX Library"
+        description: "Complete sound effects library for Emergence universe"
+        url: "https://emergence-assets.s3.amazonaws.com/audio/emergence_sfx_library_v1.0.zip"
+        size: "1.9GB"
+        last_modified: "2025-04-17" 
+        tags: ["audio", "sfx", "sound design"]
+
+  final_movie:
+    description: "Final rendered movie files"
+    assets:
+      - name: "Emergence Trailer - 4K"
+        description: "Official trailer in 4K resolution"
+        url: "https://emergence-assets.s3.amazonaws.com/videos/emergence_trailer_4k_v1.0.mp4"
+        size: "3.2GB"
+        last_modified: "2025-04-01"
+        tags: ["video", "trailer", "marketing"]
+      
+      - name: "Character Showcase Reel"
+        description: "Showcase of all main characters and species"
+        url: "https://emergence-assets.s3.amazonaws.com/videos/character_showcase_v1.1.mp4" 
+        size: "2.1GB"
+        last_modified: "2025-03-28"
+        tags: ["video", "characters", "showcase"]
+
+# Metadata section for additional information
+metadata:
+  license: "Emergence Community License - See LICENSE.md in repository"
+  contact_email: "assets@emergence-universe.com"
+  documentation_url: "https://docs.emergence-universe.com/community-assets"
+  update_frequency: "Weekly"
