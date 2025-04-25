@@ -1,6 +1,6 @@
 # Creative Commons Attribution 4.0 International License (CC BY 4.0)
 
-This collection of 3D assets, found at https://github.com/adimverse/emergence-art, is licensed under the Creative Commons Attribution 4.0 International License.
+This collection of 3D assets, found at https://github.com/adimverse/emergence-open, is licensed under the Creative Commons Attribution 4.0 International License.
 
 To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
@@ -21,6 +21,10 @@ This license does NOT extend to:
 3. Commercial use beyond the scope defined in the CC BY 4.0 license.
 
 Incention reserves all rights to release future Emergence assets under different licensing terms, including commercial licenses that may require royalty payments.
+Future Licensing
+While this initial release of Emergence 3D assets is licensed under CC BY 4.0, Incention may in the future offer additional licensing options through emerging intellectual property management platforms such as Story Protocol (https://portal.story.foundation/). These platforms provide programmable IP licensing that can better automate attribution, royalty distribution, and derivative rights.
+The license terms for these 3D assets may evolve as IP infrastructure modernizes, potentially offering creators more sophisticated ways to collaborate with and build upon the Emergence universe while ensuring proper attribution and compensation for original IP holders.
+Creators who engage with these 3D assets today will be notified of any future licensing pathways as they become available.
 
 ## Notices:
 
