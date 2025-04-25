@@ -20,9 +20,9 @@ This license does NOT extend to:
 2. The underlying intellectual property rights of the Emergence Universe, all of its storylines, characters, settings, objects, fx and concepts, etc., including those that the released 3D assets are based on (such as Captain Skadi and The Bellerophon) which shall remain the intellectual property of Incention. This license does not transfer ownership of the intellectual property rights regardless of how the 3D assets are used.
 3. Commercial use beyond the scope defined in the CC BY 4.0 license.
 
-Incention reserves all rights to release future Emergence assets under different licensing terms, including commercial licenses that may require royalty payments.
-Future Licensing
-While this initial release of Emergence 3D assets is licensed under CC BY 4.0, Incention may in the future offer additional licensing options through emerging intellectual property management platforms such as Story Protocol (https://portal.story.foundation/). These platforms provide programmable IP licensing that can better automate attribution, royalty distribution, and derivative rights.
+## Future Licensing
+While this initial release of Emergence 3D assets is licensed under CC BY 4.0, Incention reserves all rights to release future Emergence assets under different licensing terms, including commercial licenses that may require royalty payments.
+Incention may in the future offer additional licensing options through emerging intellectual property management platforms such as Story Protocol (https://portal.story.foundation/). These platforms provide programmable IP licensing that can better automate attribution, royalty distribution, and derivative rights.
 The license terms for these 3D assets may evolve as IP infrastructure modernizes, potentially offering creators more sophisticated ways to collaborate with and build upon the Emergence universe while ensuring proper attribution and compensation for original IP holders.
 
 ## Notices:
