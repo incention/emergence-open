@@ -1,16 +1,16 @@
-# Emergence Art
+# Emergence Open
 
 ### EMERGENCE
 #### created by David S. Goyer
 
-[![Emergence Art Project Introduction](https://img.youtube.com/vi/P96y90QU_60/0.jpg)](https://www.youtube.com/watch?v=P96y90QU_60)
+[![Emergence open Project Introduction](https://img.youtube.com/vi/P96y90QU_60/0.jpg)](https://www.youtube.com/watch?v=P96y90QU_60)
 
 
 [Lore Database ATLAS](https://www.emergenceuniverse.com/terminal/atlas)
 
-## Welcome to the Emergence Art Project
+## Welcome to the Emergence Open Project
 
-Emergence Art is a collaborative initiative that provides Emergence 3D assets to creators in our fan base and beyond. Our goal is to let you "play with our toys" - giving you the tools to create games, short films, and other creative content using assets from the Emergence universe.
+Emergence Open is a collaborative initiative that provides Emergence 3D assets to creators in our fan base and beyond. Our goal is to let you "play with our toys" - giving you the tools to create games, short films, and other creative content using assets from the Emergence universe.
 
 ## Project Goals
 
@@ -22,7 +22,7 @@ Emergence Art is a collaborative initiative that provides Emergence 3D assets to
 ## Getting Started
 
 1. Check out https://www.emergenceuniverse.com/world-bible to learn about the Emergence universe
-2. Explore the asset catalog to see what's available here: https://github.com/adimverse/emergence-art
+2. Explore the asset catalog to see what's available here: https://github.com/adimverse/emergence-open
 3. Set up your preferred DCC tool to use the assets
 4. Join our community and share your creations! (links coming soon)
 
@@ -48,7 +48,7 @@ We welcome contributions from the community! Please check our [Contributing Guid
 
 ## Contact
 
-- [GitHub Issues](https://github.com/adimverse/emergence-art/issues) - For bug reports and feature requests
+- [GitHub Issues](https://github.com/adimverse/emergence-opent/issues) - For bug reports and feature requests
 
 - [Discord Server](https://discord.gg/emergenceuniverse) https://discord.gg/emergenceuniverse
 

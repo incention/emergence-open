@@ -1,4 +1,4 @@
-# Getting Started with Emergence Art
+# Getting Started with Emergence Open
 
 Welcome to the Emergence Art project! This guide will help you get started with using the Emergence assets in your creative projects.
 

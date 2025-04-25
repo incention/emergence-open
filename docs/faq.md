@@ -2,13 +2,13 @@
 
 ## General Questions
 
-### What is Emergence Art?
+### What is Emergence Open?
 
-Emergence Art is a collaborative initiative that provides Emergence 3D assets to creators in the Epic community and beyond. Our goal is to let you "play with our toys" - giving you the tools to create games, short films, and other creative content using assets from the Emergence universe.
+Emergence Open is a collaborative initiative that provides Emergence 2D and 3D assets to creators. Our goal is to let you "play with our toys" - giving you the tools to create games, short films, VR/AR and other creative content using assets from the Emergence universe.
 
 ### Who can use these assets?
 
-Anyone! The assets are available under a Creative Commons Attribution 4.0 International License (CC BY 4.0), which means you can use them for personal and commercial projects as long as you provide attribution to the Emergence project.
+Anyone! This first batch of assets is available under a Creative Commons Attribution 4.0 International License (CC BY 4.0), which means you can use them for personal and commercial projects as long as you provide attribution to the Emergence project. See Lisence for details.
 
 ### Do I need to pay to use these assets?
 
@@ -16,7 +16,7 @@ No, all assets provided through this repository are free to use under the CC BY 
 
 ### What is the Emergence universe?
 
-Emergence is a science fiction universe set in a distant corner of the cosmos where civilizations discover powerful alien artifacts known as RELICS. These mysterious objects propel species to the stars, unlocking tremendous power—but they also corrupt minds and plunge the galaxy into conflict. See the [World Guide](./world-guide.md) for more details.
+Emergence was created by renowned filmmaker David S. Goyer (The Dark Knight Trilogy, Blade Trilogy, Man of Steel, Foundation). It is a science fiction universe set in a distant corner of the cosmos where civilizations discover powerful alien artifacts known as RELICS. These mysterious objects propel species to the stars, unlocking tremendous power—but they also corrupt minds and plunge the galaxy into conflict. See the [World Bible, 2nd Edition](world-bible-2ndEdition.md) for more details.
 
 ## Asset Questions
 
@@ -33,7 +33,6 @@ Available assets include:
 - VFX elements
 - Textures and materials
 - Animation data
-- Sound files
 
 ### What formats are the assets available in?
 
@@ -76,7 +75,8 @@ Watch the GitHub repository to receive notifications about updates. You can also
 ### How should I attribute the Emergence project in my work?
 
 When using Emergence assets in your work, please include the following attribution:
-"Contains assets from the Emergence universe (https://github.com/your-org/emergence-art)"
+
+"© 2025 Incention. All rights reserved. The Emergence universe, including all characters, storylines, and concepts, is the intellectual property of Incention. The 2D and 3D assets in this project are licensed under CC BY 4.0 as specified at https://github.com/adimverse/emergence-open."
 
 For videos, games, and other media, you can include this in your credits.
 
@@ -99,7 +99,7 @@ You can claim ownership of your original contributions to derivative works, but 
 We love seeing what the community creates! Share your work on:
 - Our community forum
 - Our Discord server
-- Social media with the hashtag #EmergenceArt
+- Social media with the hashtag #EmergenceOpen
 
 With your permission, we may feature outstanding community creations in our showcase.
 
