@@ -24,7 +24,6 @@ Incention reserves all rights to release future Emergence assets under different
 Future Licensing
 While this initial release of Emergence 3D assets is licensed under CC BY 4.0, Incention may in the future offer additional licensing options through emerging intellectual property management platforms such as Story Protocol (https://portal.story.foundation/). These platforms provide programmable IP licensing that can better automate attribution, royalty distribution, and derivative rights.
 The license terms for these 3D assets may evolve as IP infrastructure modernizes, potentially offering creators more sophisticated ways to collaborate with and build upon the Emergence universe while ensuring proper attribution and compensation for original IP holders.
-Creators who engage with these 3D assets today will be notified of any future licensing pathways as they become available.
 
 ## Notices:
 
