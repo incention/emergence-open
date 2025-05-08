@@ -1,1 +1,1 @@
-https://us-east-1.console.aws.amazon.com/s3/buckets/emergence-open/EmergenceOpenUE/EmergenceOpenUE.zip
+https://emergence-open.s3.us-east-1.amazonaws.com/EmergenceOpenUE/EmergenceOpenUE.zip
